@@ -7,10 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "body-parser": "*",
     "ejs": "2.3.3",
     "express": "4.13.3",
-    "node-uuid": "*",
-    "body-parser": "*"
+    "node-uuid": "*"
   },
   "engines": {
     "node": "0.12.7"
